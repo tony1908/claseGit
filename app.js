@@ -1,3 +1,4 @@
+// Comment added.
 console.log("Hola Mundo");
 
 // If statement example
