@@ -24,6 +24,7 @@ while (count >= 0) {
 }
 
 // Nested if statement example
+console.log("se agrega un console log por jorge inicia if de edades");
 let age = 20;
 if (age >= 18) {
     console.log("You are an adult.");
