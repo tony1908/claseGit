@@ -22,3 +22,4 @@ while (true) {
 
 console.log(fibonacciSequence); // Mostramos la secuencia de Fibonacci hasta 100
 
+console.log("Se agrega un cambio nuevo");
