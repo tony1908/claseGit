@@ -16,9 +16,9 @@ for (let i = 1; i <= 5; i++) {
 }
 
 // While loop example
-console.log("Counting down from 5 to 1:");
+console.log("Counting down from 5 to 0:");
 let count = 5;
-while (count > 0) {
+while (count >= 0) {
     console.log(count);
     count--;
 }
