@@ -1,3 +1,4 @@
+// Comment added.
 // Inicializamos una lista que contiene los primeros dos números de Fibonacci
 let fibonacciSequence = [0, 1];
 
